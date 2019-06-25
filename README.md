@@ -30,4 +30,4 @@ Read the section titled [Create a Remote Repo on Github](http://mod0.turing.io/s
 
 ### 4. Forking
 
-Read the section titled [Forking](http://mod0.turing.io/session4/#forking) and do the exercise in the blue box labeled ***Try It: Forking*** (6 steps). Repeat steps 4-6 twice to the `birds.txt` and `fish.txt` files. When finished, create a new file called `forking.md` in this repo and write the URL of your forked repo there. 
+Read the section titled [Forking](http://mod0.turing.io/session4/#forking) and do the exercise in the blue box labeled ***Try It: Forking*** (6 steps). Repeat steps 4-6 twice to the `birds.txt` and `fish.txt` files. When finished, create a new file called `forking.md` in this repo and write the URL of your forked repo there. # 404-not-found
